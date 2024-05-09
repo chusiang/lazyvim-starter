@@ -4,6 +4,7 @@
 
 -- Themes ---------------------------------------------------------------------
 
-if vim.fn.has("gui_running") then
-  vim.opt.guifont = { "Source Code Pro:h14" }
-end
+-- SauceCodePro Nerd Font: Fork from "Source Code Pro" font.
+--
+-- > https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/SourceCodePro.zip
+vim.opt.guifont = { "SauceCodePro Nerd Font:h20" }
