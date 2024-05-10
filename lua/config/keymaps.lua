@@ -3,10 +3,6 @@
 
 local map = LazyVim.safe_keymap_set
 
--- Leader.
--- vim.g.mapleader = " "
--- vim.g.maplocalleader = ","
-
 -- ESC.
 map("i", "jj", "<esc>", { desc = "Exit insert mode" })
 
