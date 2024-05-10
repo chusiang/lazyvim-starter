@@ -1,7 +1,6 @@
 -- flash.lua for flash.nvim (https://github.com/folke/flash.nvim) .
 
 return {
-  -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     keys = {
