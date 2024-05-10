@@ -17,6 +17,7 @@ map(
 -- Copy and Paste
 map("v", "<A-c>", '"+y', { desc = "Copy" })
 map("n", "<A-v>", '"+pa', { desc = "Paste" })
+map("i", "<A-v>", '<esc>"+pa', { desc = "Paste" })
 
 -- Save file.
 map("c", "WW", "<cmd>w<cr><esc>", { desc = "Save File" })
