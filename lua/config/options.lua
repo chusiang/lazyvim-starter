@@ -12,3 +12,6 @@ vim.opt.guifont = { "SauceCodePro Nerd Font:h14" }
 
 -- Auto line break.
 vim.opt.wrap = true
+
+-- auto cd curent dir.
+vim.opt.autochdir = true
