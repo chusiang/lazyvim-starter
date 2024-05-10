@@ -6,14 +6,6 @@ local map = LazyVim.safe_keymap_set
 -- ESC.
 map("i", "jj", "<esc>", { desc = "Exit insert mode" })
 
--- Re-reload configure.
-map(
-  "n",
-  "<leader>r",
-  "<cmd> source $HOME/.config/nvim/init.lua <cr>",
-  { desc = "Re-load NeoVim configure" }
-)
-
 -- Copy and Paste
 map("v", "<A-c>", '"+y', { desc = "Copy" })
 map("n", "<A-v>", '"+pa', { desc = "Paste" })
