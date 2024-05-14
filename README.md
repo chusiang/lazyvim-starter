@@ -14,7 +14,7 @@ Plan to add or replace some plugins.
 1. [X] dawikur/base16-vim-airline-themes
 1. [X] pearofducks/ansible-vim -> lazyvim.plugins.extras.lang.ansible
 1. [X] scrooloose/nerdtree -> nvim-neo-tree/neo-tree.nvim
-1. [X] vim-scripts/mru.vim -> telescope.nvim
+1. [X] vim-scripts/mru.vim (`<leader>m`) -> telescope.nvim (`<leader>fr`)
 1. [o] mattn/calendar-vim
 1. [ ] vim-scripts/EnhCommentify.vim
 
