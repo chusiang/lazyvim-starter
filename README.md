@@ -18,7 +18,7 @@ Plan to add or replace some plugins.
 1. [o] mattn/calendar-vim
 1. [ ] vim-scripts/EnhCommentify.vim
 
-# Reference
+## Reference
 
 * [chusiang/vimrc: vimrc of chusiang | GitHub](https://github.com/chusiang/vimrc)
 * [LazyVim documentation](https://lazyvim.github.io/installation)
