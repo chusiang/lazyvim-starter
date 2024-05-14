@@ -1,4 +1,9 @@
--- flash.lua for flash.nvim (https://github.com/folke/flash.nvim) .
+-------------------------------------------------------------------------------
+-- Plugin: folke/flash.nvim
+-- Description: Navigate your code with search labels, enhanced character
+--              motions and Treesitter integration
+-- Reference: https://github.com/folke/flash.nvim
+-------------------------------------------------------------------------------
 
 return {
   {
