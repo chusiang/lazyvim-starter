@@ -31,7 +31,7 @@ map("v", "<tab>", ">gv", { desc = "Increase Indent" })
 map("n", "<s-tab>", "v<", { desc = "Reduce Indent" })
 
 -- Rotate split window
-map("n", "<C-tab>", "<C-w>w", { desc = ",otate window" })
+map("n", "<C-tab>", "<C-w>w", { desc = "Rotate window" })
 map("i", "<C-tab>", "<C-o><C-w>w", { desc = "Rotate window" })
 
 -- Support HHKB
