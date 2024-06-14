@@ -9,26 +9,35 @@ Fork [LazyVim](https://github.com/LazyVim/LazyVim) starter template for myself.
 
 ## Plugins
 
-Plan to add or replace some plugins.
+Add or replace some plugins:
 
 1. [X] [chriskempson/base16-vim][base16-vim]
 1. [X] [dawikur/base16-vim-airline-themes][base16-vim-airline-themes]
+1. [X] [nvim-treesitter/nvim-treesitter-context][nvim-treesitter-context]
 1. [X] [pearofducks/ansible-vim][ansible-vim] -> lazyvim.plugins.extras.lang.ansible
-1. [X] [scrooloose/nerdtree][nerdtree] -> [nvim-neo-tree/neo-tree.nvim][neo-tree.nvim]
+1. [X] [preservim/tagbar][tagbar] -> [hedyhli/outline.nvim][outline.nvim] (`<leader>cs`)
+1. [X] [scrooloose/nerdtree][nerdtree] (`<leader>e`) ->
+        [nvim-neo-tree/neo-tree.nvim][neo-tree.nvim] (`<leader>fe`)
 1. [X] [vim-scripts/mru.vim][mru.vim] (`<leader>m`) ->
         [nvim-telescope/telescope.nvim][telescope.nvim] (`<leader>fr`)
+
+TODO:
+
 1. [ ] [mattn/calendar-vim][calendar-vim]
 1. [ ] [vim-scripts/EnhCommentify.vim][EnhCommentify.vim]
 
-[base16-vim]: https://github.com/chriskempson/base16-vim
-[base16-vim-airline-themes]: https://github.com/dawikur/base16-vim-airline-themes
-[ansible-vim]: https://github.com/pearofducks/ansible-vim
-[nerdtree]: https://github.com/preservim/nerdtree
-[neo-tree.nvim]: https://github.com/nvim-neo-tree/neo-tree.nvim
-[mru.vim]: https://github.com/vim-scripts/mru.vim
-[telescope.nvim]: https://github.com/nvim-telescope/telescope.nvim
-[calendar-vim]: https://github.com/mattn/calendar-vim
 [EnhCommentify.vim]: https://github.com/vim-scripts/EnhCommentify.vim
+[ansible-vim]: https://github.com/pearofducks/ansible-vim
+[base16-vim-airline-themes]: https://github.com/dawikur/base16-vim-airline-themes
+[base16-vim]: https://github.com/chriskempson/base16-vim
+[calendar-vim]: https://github.com/mattn/calendar-vim
+[mru.vim]: https://github.com/vim-scripts/mru.vim
+[neo-tree.nvim]: https://github.com/nvim-neo-tree/neo-tree.nvim
+[nerdtree]: https://github.com/preservim/nerdtree
+[nvim-treesitter-context]: https://github.com/nvim-treesitter/nvim-treesitter-context
+[outline.nvim]: https://github.com/hedyhli/outline.nvim
+[tagbar]: https://github.com/preservim/tagbar
+[telescope.nvim]: https://github.com/nvim-telescope/telescope.nvim
 
 ## Reference
 
