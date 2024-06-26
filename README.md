@@ -20,12 +20,15 @@ Add or replace some plugins:
         [nvim-neo-tree/neo-tree.nvim][neo-tree.nvim] (`<leader>fe`)
 1. [X] [vim-scripts/mru.vim][mru.vim] (`<leader>m`) ->
         [nvim-telescope/telescope.nvim][telescope.nvim] (`<leader>fr`)
+1. [X] [vim-scripts/EnhCommentify.vim][EnhCommentify.vim] (`<leader>x`) ->
+        [nvim-treesitter/nvim-treesitter-textobjects][nvim-treesitter-textobjects] (`vgc`)
+
+    > comment textobject
 
 TODO:
 
 1. [ ] [maps/marp-nvim][marp-nvim]
 1. [ ] [mattn/calendar-vim][calendar-vim]
-1. [ ] [vim-scripts/EnhCommentify.vim][EnhCommentify.vim]
 
 [EnhCommentify.vim]: https://github.com/vim-scripts/EnhCommentify.vim
 [ansible-vim]: https://github.com/pearofducks/ansible-vim
@@ -37,6 +40,7 @@ TODO:
 [neo-tree.nvim]: https://github.com/nvim-neo-tree/neo-tree.nvim
 [nerdtree]: https://github.com/preservim/nerdtree
 [nvim-treesitter-context]: https://github.com/nvim-treesitter/nvim-treesitter-context
+[nvim-treesitter-textobjects]: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
 [outline.nvim]: https://github.com/hedyhli/outline.nvim
 [tagbar]: https://github.com/preservim/tagbar
 [telescope.nvim]: https://github.com/nvim-telescope/telescope.nvim
