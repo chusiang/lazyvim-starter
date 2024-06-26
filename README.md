@@ -23,6 +23,7 @@ Add or replace some plugins:
 
 TODO:
 
+1. [ ] [maps/marp-nvim][marp-nvim]
 1. [ ] [mattn/calendar-vim][calendar-vim]
 1. [ ] [vim-scripts/EnhCommentify.vim][EnhCommentify.vim]
 
@@ -31,6 +32,7 @@ TODO:
 [base16-vim-airline-themes]: https://github.com/dawikur/base16-vim-airline-themes
 [base16-vim]: https://github.com/chriskempson/base16-vim
 [calendar-vim]: https://github.com/mattn/calendar-vim
+[marp-nvim]: https://github.com/mpas/marp-nvim
 [mru.vim]: https://github.com/vim-scripts/mru.vim
 [neo-tree.nvim]: https://github.com/nvim-neo-tree/neo-tree.nvim
 [nerdtree]: https://github.com/preservim/nerdtree
