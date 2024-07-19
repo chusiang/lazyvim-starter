@@ -11,27 +11,30 @@ Fork [LazyVim](https://github.com/LazyVim/LazyVim) starter template for myself.
 
 Add or replace some plugins:
 
-1. [x] [chriskempson/base16-vim][base16-vim]
-1. [x] [dawikur/base16-vim-airline-themes][base16-vim-airline-themes]
-1. [x] [nvim-treesitter/nvim-treesitter-context][nvim-treesitter-context]
-1. [x] [pearofducks/ansible-vim][ansible-vim] -> lazyvim.plugins.extras.lang.ansible
-1. [x] [preservim/tagbar][tagbar] -> [hedyhli/outline.nvim][outline.nvim] (`<leader>cs`)
-1. [x] [scrooloose/nerdtree][nerdtree] (`<leader>e`) ->
-       [nvim-neo-tree/neo-tree.nvim][neo-tree.nvim] (`<leader>fe`)
-1. [x] [vim-scripts/mru.vim][mru.vim] (`<leader>m`) ->
-       [nvim-telescope/telescope.nvim][telescope.nvim] (`<leader>fr`)
-1. [x] [vim-scripts/EnhCommentify.vim][EnhCommentify.vim] (`<leader>x`) ->
-       [nvim-treesitter/nvim-treesitter-textobjects][nvim-treesitter-textobjects]
-       (`vgc`)
+1. [chriskempson/base16-vim][base16-vim]
+1. [dawikur/base16-vim-airline-themes][base16-vim-airline-themes]
+1. [nvim-treesitter/nvim-treesitter-context][nvim-treesitter-context]
+1. [pearofducks/ansible-vim][ansible-vim] -> lazyvim.plugins.extras.lang.ansible
+1. [preservim/tagbar][tagbar] -> [hedyhli/outline.nvim][outline.nvim] (`<leader>cs`)
+1. [scrooloose/nerdtree][nerdtree] (`<leader>e`) ->
+   [nvim-neo-tree/neo-tree.nvim][neo-tree.nvim] (`<leader>fe`)
+1. [vim-scripts/mru.vim][mru.vim] (`<leader>m`) ->
+   [nvim-telescope/telescope.nvim][telescope.nvim] (`<leader>fr`)
+1. [vim-scripts/EnhCommentify.vim][EnhCommentify.vim] (`<leader>x`) ->
+   [nvim-treesitter/nvim-treesitter-textobjects][nvim-treesitter-textobjects]
+   (`vgc`)
 
    > comment textobject
 
-1. [x] [gko/vim-coloresque][gko/vim-coloresque] -> [echasnovski/mini.hipatterns][mini.hipatterns]
+1. [gko/vim-coloresque][gko/vim-coloresque] -> [echasnovski/mini.hipatterns][mini.hipatterns]
 
 TODO:
 
-1. [ ] [maps/marp-nvim][marp-nvim]
-1. [ ] [mattn/calendar-vim][calendar-vim]
+1. [mattn/calendar-vim][calendar-vim]
+
+Discard:
+
+1. [maps/marp-nvim][marp-nvim]
 
 [EnhCommentify.vim]: https://github.com/vim-scripts/EnhCommentify.vim
 [ansible-vim]: https://github.com/pearofducks/ansible-vim
