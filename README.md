@@ -1,6 +1,38 @@
 # 💤 LazyVimRC
 
-Fork [LazyVim](https://github.com/LazyVim/LazyVim) starter template for myself.
+Fork the [LazyVim](https://github.com/LazyVim/LazyVim) starter template for myself.
+
+## Installation
+
+1. (Option) Create the directory of `~/.config/` .
+
+   ```shell
+   [ chusiang@linux ~ ]
+   $ mkdir -p ~/.config/
+   ```
+
+1. Clone this project.
+
+   ```shell
+   [ chusiang@linux ~ ]
+   $ git clone https://github.com/LazyVim/starter ~/.config/nvim
+   ```
+
+1. (Option) Remove the `.git` folder, if you want push to your repo.
+
+   ```shell
+   [ chusiang@linux ~ ]
+   $ rm -rf ~/.config/nvim/.git
+   ```
+
+1. Start the NeoVim !
+
+   ```shell
+   [ chusiang@linux ~ ]
+   $ nvim
+   ```
+
+> <https://www.lazyvim.org/installation>
 
 ## Appearance
 
