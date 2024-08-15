@@ -45,7 +45,7 @@ Add or replace some plugins:
 
 1. [chriskempson/base16-vim][base16-vim]
 1. [dawikur/base16-vim-airline-themes][base16-vim-airline-themes]
-1. [nvim-treesitter/nvim-treesitter-context][nvim-treesitter-context]
+1. [~~nvim-treesitter/nvim-treesitter-context~~][nvim-treesitter-context]
 1. [pearofducks/ansible-vim][ansible-vim] -> lazyvim.plugins.extras.lang.ansible
 1. [preservim/tagbar][tagbar] -> [hedyhli/outline.nvim][outline.nvim] (`<leader>cs`)
 1. [scrooloose/nerdtree][nerdtree] (`<leader>e`) ->
