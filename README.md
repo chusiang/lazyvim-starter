@@ -15,7 +15,7 @@ Fork the [LazyVim](https://github.com/LazyVim/LazyVim) starter template for myse
 
    ```shell
    [ chusiang@linux ~ ]
-   $ git clone https://github.com/LazyVim/starter ~/.config/nvim
+   $ git clone https://github.com/chusiang/lazyvimrc.git ~/.config/nvim
    ```
 
 1. (Option) Remove the `.git` folder, if you want push to your repo.
